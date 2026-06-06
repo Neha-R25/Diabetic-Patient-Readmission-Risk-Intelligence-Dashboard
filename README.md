@@ -70,5 +70,4 @@ That translation — from statistical finding to operational decision — is wha
 
 ## Dashboard Preview
 
-![Patient Risk Intelligence Dashboard](dashboard_screenshot.png)
-
+![Diabetic Patient Readmission Risk Intelligence Dashboard](diabetes.png)
